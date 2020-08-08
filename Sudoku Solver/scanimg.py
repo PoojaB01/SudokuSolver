@@ -116,5 +116,5 @@ def extractsudoku(filename):
     cv.waitKey(0)
     cv.destroyAllWindows()
     """
-    return img
+    return img, [pts2, pts1]
 
