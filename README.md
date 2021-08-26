@@ -4,7 +4,7 @@ This tool lets you get the solution of a sudoku puzzle from its picture.
 
 ## Execution
 
-For building the digit identification model and store them as pkl file, run:  
+For building the digit identification model (KNeighborsClassifier and RandomForestClassifier) and storing them as .pkl file, run:  
 ```
 python3 build_model.py --knc_filename=<filename> --rcf_filename=<filename>
 ```
