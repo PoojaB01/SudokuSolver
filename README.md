@@ -23,7 +23,7 @@ Given Image <br />
 2. Image processing and detection of digits.  
 <img src = "./images/digit106.jpg" width = 30px style = "padding:2px; display: inline"></img> <img src = "./images/digit100.jpg" width = 30px style = "padding:2px; display: inline"></img> <img src = "./images/digit107.jpg" width = 30px style = "padding:2px; display: inline"></img> <img src = "./images/digit102.jpg" width = 30px style = "padding:2px; display: inline"></img> <img src = "./images/digit101.jpg" width = 30px style = "padding:2px; display: inline"></img> <img src = "./images/digit118.jpg" width = 30px style = "padding:2px; display: inline"></img> <img src = "./images/digit110.jpg" width = 30px style = "padding:2px; display: inline"></img> <img src = "./images/digit103.jpg" width = 30px style = "padding:2px; display: inline"></img> <img src = "./images/digit105.jpg" width = 30px style = "padding:2px; display: inline"></img>
 3. Classifying digits based on their images using a KNN - model.
-4. Solving the puzzle using backtracking.
+4. Solving the puzzle using backtracking.  
 <img src = "./images/solved.jpg" width = 300px style = "padding:10px;"></img>
 5. Printing solution back on image.  
 <img src = "./images/final.jpg" width = 300px style = "padding:10px;"></img>
