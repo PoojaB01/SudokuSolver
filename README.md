@@ -28,4 +28,4 @@ Given Image <br />
 5. Printing solution back on image.  
 <img src = "./images/final.jpg" width = 300px style = "padding:10px;"></img>
 
-Made by : Pooja Bhaagt 
+Made by : Pooja Bhagat 
